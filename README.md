@@ -124,4 +124,5 @@ Screenshots of successful test execution can be found in the `/screenshots` fold
 
 ## 📌 License
 
-This project is for **educational/demo purposes** only. Free to use for learning or showcasing in portfolios.
+This project is for **educational/demo purposes** only. 
+
